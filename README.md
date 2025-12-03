@@ -1,7 +1,6 @@
  CyberWatch INDIA - Cybercrime Intelligence Dashboard
 
 CyberWatch INDIA is an innovative AI-powered web dashboard that transforms India's fight against financial cyber fraud by integrating data from the National Cybercrime Reporting Portal (NCRP), banking APIs, and telecom sources to predict high-risk cash withdrawal hotspots and deliver actionable intelligence in real time.
-Deployed at https://cyber-watch-india.vercel.app/,
 it provides law enforcement agencies (LEAs), banks, telecom operators, and regulators with a unified platform to visualize fraud patterns, monitor trends, and enable proactive interventions like fund blocking and rapid response.
 
  Project Purpose and Impact
@@ -23,8 +22,9 @@ Collaboratively developed by:
 - Sneha Jana (UI/UX & Frontend)  
 - Nilay Dasgupta (ML & Backend)  
 - Niloy Das (Data & GIS Integration)  
-- Bikramjit Saha (DevOps & Deployment)[11]
+- Bikramjit Saha (DevOps & Deployment)
 
 Innovation and Future Scope
-This end-to-end platform innovates with GIS risk maps, cross-agency data sharing, and field-ready tools to reduce fraud losses and enhance cyber awareness nationwide.[12][2][11]
-Future expansions include AR visualizations, broader bank/telecom integrations, and public-facing apps for comprehensive digital security. Live demo: https://cyber-watch-india.vercel.app/.
+This end-to-end platform innovates with GIS risk maps, cross-agency data sharing, and field-ready tools to reduce fraud losses and enhance cyber awareness nationwide.
+Future expansions include AR visualizations, broader bank/telecom integrations, and public-facing apps for comprehensive digital security. 
+Live demo: https://cyber-watch-india.vercel.app/.
